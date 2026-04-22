@@ -413,11 +413,7 @@ Be concise, professional, and actionable. Use bullet points where helpful.`;
           <span style={{fontFamily:"'Syne',sans-serif",fontWeight:800,fontSize:17,letterSpacing:-0.5}}>
             GUARDIAN<span style={{color:T.accent}}>AI</span>
           </span>
-          <div className="hm" style={{display:"flex",alignItems:"center",gap:5,
-            background:T.blue+"18",border:`1px solid ${T.blue}33`,borderRadius:4,padding:"2px 8px"}}>
-            <GoogleDots/>
-            <span style={{color:T.blue,fontSize:10,fontWeight:700}}>GOOGLE SOLUTION CHALLENGE 2025</span>
-          </div>
+
         </div>
         <div style={{display:"flex",alignItems:"center",gap:10}}>
           <div className="hm" style={{display:"flex",alignItems:"center",gap:5,color:T.muted,fontSize:11}}>
@@ -964,10 +960,7 @@ Be concise, professional, and actionable. Use bullet points where helpful.`;
                   <h1 style={{fontFamily:"'Syne',sans-serif",fontWeight:800,fontSize:22,margin:0,letterSpacing:-1}}>
                     SDG <span style={{color:T.green}}>Impact</span>
                   </h1>
-                  <div style={{background:T.blue+"18",border:`1px solid ${T.blue}44`,borderRadius:20,
-                    padding:"3px 10px",fontSize:10,color:T.blue,fontWeight:700}}>
-                    GOOGLE SOLUTION CHALLENGE 2025
-                  </div>
+
                 </div>
                 <p style={{color:T.muted,fontSize:11}}>GuardianAI aligns with UN Sustainable Development Goals</p>
               </div>
