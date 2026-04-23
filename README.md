@@ -11,7 +11,7 @@
 <img width="1366" height="649" alt="Screenshot_20260423_231347" src="https://github.com/user-attachments/assets/bdaed712-c70d-4814-9d1f-b4f4a1a6dd55" />
 
 <br/>
-> **GuardianAI** is an AI-powered platform that identifies, tracks, and flags unauthorized use of official sports media across the internet — in near real-time. Built on Google Cloud, Gemini AI, and YouTube Data API v3.
+**GuardianAI** is an AI-powered platform that identifies, tracks, and flags unauthorized use of official sports media across the internet — in near real-time. Built on Google Cloud, Gemini AI, and YouTube Data API v3.
  
 <br/>
 
